@@ -1,7 +1,12 @@
 # simple-server
 
+Инициализация сервера
+```
+pipenv shell --python 3.6
+pipenv install
+```
+
 Запуск сервера
 ```
-nvm use default
-node app.js
+python server.py
 ```
